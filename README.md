@@ -1,6 +1,6 @@
 # AllTalk TTS
 
-# Modified for faster_whisper
+# Modified version (faster_whisper, more accurate boundary search, automatic rejection of incorrectly cut samples)
 
 ## AllTalk version 2
 
@@ -1484,4 +1484,5 @@ audioElement.play(); // Play the audio stream directly
 - I am maintaining a list of things people request [here](https://github.com/erew123/alltalk_tts/discussions/74)
 - Possibly add some additional TTS engines (TBD).
 - Have a break!
+
 
